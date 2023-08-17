@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/bland-host/static/css/main.bd47d9de.css",
+    "main.js": "/bland-host/static/js/main.17870e1a.js",
+    "static/media/drag.svg": "/bland-host/static/media/drag.ff004d40f5b45d32a5e1a2510cd468e6.svg",
+    "index.html": "/bland-host/index.html",
+    "main.bd47d9de.css.map": "/bland-host/static/css/main.bd47d9de.css.map",
+    "main.17870e1a.js.map": "/bland-host/static/js/main.17870e1a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd47d9de.css",
+    "static/js/main.17870e1a.js"
+  ]
+}
